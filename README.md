@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bo Bo Aung</h1>
+<h1 align="center">Hello 👋, I'm Bo Bo Aung</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maungbo404&label=Profile%20views&color=0e75b6&style=flat" alt="maungbo404" /> </p>
 
