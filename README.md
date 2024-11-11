@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Bo Bo Aung <h2>(Boolean)</h2></h1> 
+<h1 align="center">Hello 👋, I'm Bo Bo Aung</h1> 
 <h3 align="center">A passionate MERN Stack developer from Myanmar, lives in Thailand</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boolean405&label=Profile%20views&color=0e75b6&style=flat" alt="boolean405" /> </p>
