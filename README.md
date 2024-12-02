@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Bo Bo Aung</h1> 
-<h3 align="center">A passionate MERN Stack developer from Myanmar, lives in Thailand</h3>
+<h3 align="center">A passionate Full Stack developer from Myanmar, lives in Thailand</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boolean405&label=Profile%20views&color=0e75b6&style=flat" alt="boolean405" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **boolean405@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/uc?export=download&id=1HfXfiHo0vBs4JRvILI1zP_z9xkFWB8Lm](https://drive.google.com/uc?export=download&id=1HfXfiHo0vBs4JRvILI1zP_z9xkFWB8Lm)
+- 📄 Know about my experiences [Download Resume](https://drive.google.com/uc?export=download&id=1S99M-nKh_rG6rOl8Vhv4woMtu3koJV-M)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
