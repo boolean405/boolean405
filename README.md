@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Email-boolean405%40gmail.com-1abc9c?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
   </a>
   <a href="https://boolean405.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Linktree-2ecc71?style=for-the-badge&logo=linktree&logoColor=white" alt="portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Linktree-2ecc71?style=for-the-badge&logo=website&logoColor=white" alt="portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/boolean405">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
